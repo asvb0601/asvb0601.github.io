@@ -1,0 +1,11 @@
+{
+  "db": {
+    "port": 27017,
+    "url": "mongodb+srv://mogouser:<uQOZSuAjDkWpayPb>@cluster0.w5qa0.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "database": "Cluster0",
+    "password": "jF3bQIhevQ0u4YWw",
+    "name": "db",
+    "user": "mongouser",
+    "connector": "mongodb"
+  }
+}
