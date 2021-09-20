@@ -1,11 +1,11 @@
 {
   "db": {
     "port": 27017,
-    "url": "mongodb+srv://mogouser:<uQOZSuAjDkWpayPb>@cluster0.w5qa0.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
-    "database": "Cluster0",
-    "password": "jF3bQIhevQ0u4YWw",
+    "url": "mongodb+srv://taller_api_rest:1debAHYJ1W8cR28h@cluster0.y7ki0.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "database": "cluster0",
+    "password": "1debAHYJ1W8cR28h",
     "name": "db",
-    "user": "mongouser",
+    "user": "taller_api_rest",
     "connector": "mongodb"
   }
 }
